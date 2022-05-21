@@ -1,0 +1,5 @@
+int16 base_angle
+int16 right_angle
+int16 left_angle
+---
+bool configured

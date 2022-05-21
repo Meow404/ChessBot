@@ -1,0 +1,2 @@
+arduino_control:robot_control
+-DCATKIN_DEVEL_PREFIX=/home/stephen/Workspace/ROS_Workspace/ROS_4DOF_Bot_Catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/stephen/Workspace/ROS_Workspace/ROS_4DOF_Bot_Catkin_ws/install -G Unix Makefiles
